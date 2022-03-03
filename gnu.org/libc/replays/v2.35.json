@@ -17,7 +17,8 @@
 							"cd /build",
 							"/src/*/configure --prefix=/prefix/",
 							"make",
-							"make DESTDIR=/out install"
+							"make DESTDIR=/out install",
+							"rm /out/prefix/share/info/libc.info-8"
 						]
 					}
 				},
