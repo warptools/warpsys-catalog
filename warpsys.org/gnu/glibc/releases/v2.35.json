@@ -2,9 +2,10 @@
 	"name": "v2.35",
 	"items": {
 		"src": "tar:5FmWiu24omj6BzbKdHpjqkcXFVAuoTHdzwdgZrzKfy2icxyXzGJpASRsfGz4XvSigP",
-		"amd64": "tar:3HqMRWBRpVNHygJcHpLGNYHCnQiQxxJybZAgh4Cq245chjwYNWYKZsmCnkXBhtdt6m"
+		"amd64": "tar:3HqMRWBRpVNHygJcHpLGNYHCnQiQxxJybZAgh4Cq245chjwYNWYKZsmCnkXBhtdt6m",
+		"ld-amd64": "tar:9fttDVHncJnoU9gLHdRybpz9eSw12xau9AsJzZTNoQamxFNjX6s6HNTj7a8wmYjCvg"
 	},
 	"metadata": {
-		"replay": "bafyrgqcpjdtkrf22mk37wpi4oburttzzjy6pghrheqbzgjnriksrz3ggnydo3x4mpug3dpupslm2zo53gwyccousulpcqpxuupprz6ryk6vbc"
+		"replay": "bafyrgqesyxkjoad7qtiqrucntpimvkzbfxh2qopmmxloerkt33clxokgg76eahofdw37z7toozhetkrit5yfkeudbo2nghluqhlbhuxv3mmpe"
 	}
 }
