@@ -1,0 +1,11 @@
+{
+	"name": "v2.35",
+	"items": {
+		"src": "tar:5FmWiu24omj6BzbKdHpjqkcXFVAuoTHdzwdgZrzKfy2icxyXzGJpASRsfGz4XvSigP",
+		"amd64": "tar:3HqMRWBRpVNHygJcHpLGNYHCnQiQxxJybZAgh4Cq245chjwYNWYKZsmCnkXBhtdt6m",
+		"ld-amd64": "tar:9fttDVHncJnoU9gLHdRybpz9eSw12xau9AsJzZTNoQamxFNjX6s6HNTj7a8wmYjCvg"
+	},
+	"metadata": {
+		"replay": "zM5K3SPLD8hBXUnDuKLHEiPWudo95dXZpTvETgxp97KHy5S5BNEDa3eZ3y23VpYaL5oyAVw"
+	}
+}

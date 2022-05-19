@@ -1,7 +1,7 @@
 {
 	"inputs": {
 		"rootfs": "catalog:warpsys.org/debian-bootstrap:bullseye-1646092800:amd64",
-		"src": "catalog:warpsys.org/zlib:v1.2.12:src"
+		"src": "catalog:warpsys.org/glibc:v2.35:src"
 	},
 	"steps": {
 		"build": {
@@ -14,19 +14,24 @@
 					"script": {
 						"interpreter": "/bin/sh",
 						"contents": [
-							"cd /src/*",
-							"mkdir -v build",
-							"cd build",
-							"export SOURCE_DATE_EPOCH=1262304000",
-							"../configure --prefix=/prefix/",
+							"mkdir -v /build",
+							"cd /build",
+							"/src/*/configure --prefix=/prefix/",
 							"make",
-							"make DESTDIR=/out install"
+							"make DESTDIR=/out install",
+							"rm /out/prefix/share/info/libc.info-8",
+							"mkdir -vp /out/ld",
+							"cp /out/prefix/lib/ld-linux-x86-64.so.2 /out/ld"
 						]
 					}
 				},
 				"outputs": {
-					"out": {
+					"glibc": {
 						"from": "/out/prefix",
+						"packtype": "tar"
+					},
+					"ld": {
+						"from": "/out/ld",
 						"packtype": "tar"
 					}
 				}
@@ -34,6 +39,7 @@
 		}
 	},
 	"outputs": {
-		"amd64": "pipe:build:out"
+		"amd64": "pipe:build:glibc",
+		"ld-amd64": "pipe:build:ld"
 	}
 }

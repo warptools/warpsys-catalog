@@ -1,0 +1,9 @@
+{
+	"byModule": {
+		"warpsys.org/ldshim": {
+			"git": [
+				"https://github.com/ericevenchick/ldshim"
+			]
+		}
+	}
+}

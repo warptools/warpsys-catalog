@@ -1,9 +1,10 @@
 {
 	"name": "v1.2.12",
 	"items": {
+		"src": "tar:9jczQn3Vhqxp5MmKEsvcpVmBLnt8Qh81SBraGHQppeoGUQFQiSNaLS6i9e94AUxZbs",
 		"amd64": "tar:8Hg3YzQp2zxWLq245udsVu1jVAiWnFTu4ftApYrok39ZviDimt5XQNiWi3cDJdHPYM"
 	},
 	"metadata": {
-		"replay": "bafyrgqbiri7qaftnqgrza2rnbc2x2rqukwdgqxcyazweqrka2mp7uknd2h7pezg7lagbx6oxsd4j4q6wp4rxvlpqpgsgxyjdoprngodgtn4l6"
+		"replay": "zM5K3Z6xZ2bw7knT5w9Evmrp5WV6RzGyYCtYhWmiexNc7g4Bh9DvoJVqGig29J1sBKvhfZU"
 	}
 }

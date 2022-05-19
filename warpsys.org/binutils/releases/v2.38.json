@@ -1,7 +1,10 @@
 {
 	"name": "v2.38",
 	"items": {
-		"src": "tar:9zGUbgyB5mVDJK8JoN1dsLPGjootQFBJQ1XkDtgNvGttr3TTTuZ5AeLxzLNFjvMwZt"
+		"src": "tar:9zGUbgyB5mVDJK8JoN1dsLPGjootQFBJQ1XkDtgNvGttr3TTTuZ5AeLxzLNFjvMwZt",
+		"amd64": "tar:A1rewQTanc6MRtqzLzCGE8Ry84xtm8CgkB5Jmw4rA9zSAVVW17FqSx1qLuvUMhAvgU"
 	},
-	"metadata": {}
+	"metadata": {
+		"replay": "zM5K3Z9rWmtaxWhMwqRKUVejjqwPuzhmScEc21pkS2RwGUE9wUZ3pcZsTHv3cmdM1qHdh4U"
+	}
 }
