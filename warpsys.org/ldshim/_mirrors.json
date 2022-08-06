@@ -1,0 +1,11 @@
+{
+	"catalogmirrors.v1": {
+		"byModule": {
+			"warpsys.org/ldshim": {
+				"git": [
+					"https://github.com/ericevenchick/ldshim"
+				]
+			}
+		}
+	}
+}

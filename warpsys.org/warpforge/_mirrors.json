@@ -1,0 +1,11 @@
+{
+	"catalogmirrors.v1": {
+		"byModule": {
+			"warpsys.org/warpforge": {
+				"git": [
+					"https://github.com/warpfork/warpforge"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:9zGUbgyB5mVDJK8JoN1dsLPGjootQFBJQ1XkDtgNvGttr3TTTuZ5AeLxzLNFjvMwZt": [
+				"https://ftp.gnu.org/gnu/binutils/binutils-2.38.tar.xz"
+			],
+			"tar:417g7AvY62Zm4hMWtAGwhTin4JEgZzVmxuj94d2tzVV8yAgR8FSPmxvjQpCTXQ8Eca": [
+				"https://warpsys.s3.amazonaws.com/warpsys.org/warehouse/417g7AvY62Zm4hMWtAGwhTin4JEgZzVmxuj94d2tzVV8yAgR8FSPmxvjQpCTXQ8Eca"
+			]
+		}
+	}
+}

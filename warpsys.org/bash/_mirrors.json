@@ -1,0 +1,12 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:5K7rekQyv4YJphfwfssRsLqHtrL4G9bVmCuarnJyvNaCWzABt6ujLvRRQ48ppRqvNZ": [
+				"https://ftp.gnu.org/gnu/bash/bash-5.1.16.tar.gz"
+			],
+			"tar:3n5GHKssgeFKsFBPPXKZHbyKt3onqxnvEtsJRQas7wyuz9i7PfzW9zsjSC3z94RYmo": [
+				"https://warpsys.s3.amazonaws.com/warpsys.org/warehouse/3n5GHKssgeFKsFBPPXKZHbyKt3onqxnvEtsJRQas7wyuz9i7PfzW9zsjSC3z94RYmo"
+			]
+		}
+	}
+}
