@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:7H1Q3iao41JuGXD1nigEhiLY3VhhEdBfpW8wPGNym3Cr217asnKhi4T7egJwKRpXUw": [
+				"https://ftp.gnu.org/gnu/sed/sed-4.8.tar.xz"
+			]
+		}
+	}
+}

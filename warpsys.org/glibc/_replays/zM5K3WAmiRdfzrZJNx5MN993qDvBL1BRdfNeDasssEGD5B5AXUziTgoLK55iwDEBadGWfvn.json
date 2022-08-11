@@ -21,6 +21,9 @@
 								"make",
 								"make DESTDIR=/out install",
 								"rm /out/prefix/share/info/libc.info-8",
+								"cp -R /usr/include/x86_64-linux-gnu /out/prefix/include",
+								"cp -R /usr/include/asm-generic /out/prefix/include",
+								"cp -R /usr/include/linux /out/prefix/include",
 								"mkdir -vp /out/ld",
 								"cp /out/prefix/lib/ld-linux-x86-64.so.2 /out/ld"
 							]

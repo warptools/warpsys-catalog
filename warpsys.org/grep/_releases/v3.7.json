@@ -1,0 +1,10 @@
+{
+	"releaseName": "v3.7",
+	"items": {
+		"src": "tar:6Z3uetjLfrTyUMZfJUj5irebzUsbyWD3gT6RzqqCCBkCo75M5mUZ5cY2JT2P2xzJNw",
+		"amd64": "tar:6L5fZZ3Jkz3Q3F3VdyKrvnQcHoPj7g1ALRGDxeZ1usJS8Jds4db5m5bZe8rUKSMD8M"
+	},
+	"metadata": {
+		"replay": "zM5K3VbfpoGeZoGEjwRYTqhpsGJjkLZVVpaATrk1aWNhXjfS6e5G13NUY1Qa5fYhiAnJknz"
+	}
+}

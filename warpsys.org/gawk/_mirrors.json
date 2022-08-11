@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:4EepNdLjgzenQDuL3Xtt9eehXdcos71A2dPZNEzF7mEJc9sooV7sFhQvGwJqRfEsom": [
+				"https://ftp.gnu.org/gnu/gawk/gawk-5.1.1.tar.xz"
+			]
+		}
+	}
+}
