@@ -1,11 +1,7 @@
 {
 	"releaseName": "v2.35",
 	"items": {
-		"src": "tar:5FmWiu24omj6BzbKdHpjqkcXFVAuoTHdzwdgZrzKfy2icxyXzGJpASRsfGz4XvSigP",
-		"amd64": "tar:CdoEWxD61NHcu1yayo2KjvFHAmwt2r3kxKYxudgKTAUyBqfmPQp4SnarHfKgYe1XN",
-		"ld-amd64": "tar:9fttDVHncJnoU9gLHdRybpz9eSw12xau9AsJzZTNoQamxFNjX6s6HNTj7a8wmYjCvg"
+		"src": "tar:5FmWiu24omj6BzbKdHpjqkcXFVAuoTHdzwdgZrzKfy2icxyXzGJpASRsfGz4XvSigP"
 	},
-	"metadata": {
-		"replay": "zM5K3WAmiRdfzrZJNx5MN993qDvBL1BRdfNeDasssEGD5B5AXUziTgoLK55iwDEBadGWfvn"
-	}
+	"metadata": {}
 }

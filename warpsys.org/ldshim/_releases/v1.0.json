@@ -1,10 +1,7 @@
 {
 	"releaseName": "v1.0",
 	"items": {
-		"src": "git:e1ef3d42f84ff81a73fcca9d6d71d626c116af19",
-		"amd64": "tar:98WfEP2nav7YGVkXiL44dZU4rQJ6x7UJdZa3LKKBKNyRdczhGz7Gh2UsYuj8Leas2z"
+		"src": "git:e1ef3d42f84ff81a73fcca9d6d71d626c116af19"
 	},
-	"metadata": {
-		"replay": "zM5K3Wu8DgBVSBrbnkMv6aknGb76WmCKE1qVCfcnktSBTVcyEbcdYYZZQcPQcTLwNFrkjNV"
-	}
+	"metadata": {}
 }

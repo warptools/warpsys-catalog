@@ -1,10 +1,7 @@
 {
 	"releaseName": "v11.2.0",
 	"items": {
-		"src": "tar:7fNHRnzrYMSeADR14CzerM1RRRiapRJeu3HiL5eUyVhhoefNK8Wicr22EYSPhQM2oM",
-		"amd64": "tar:8ReBSHpZBrQs2sKs1b3sTZvUPXYQxXhecPnU8mtkvBBks6QNWN6K2RGiCyV419tLKM"
+		"src": "tar:7fNHRnzrYMSeADR14CzerM1RRRiapRJeu3HiL5eUyVhhoefNK8Wicr22EYSPhQM2oM"
 	},
-	"metadata": {
-		"replay": "zM5K3SD7aLhkxHnmaocKHKemnF6HwwfeP6wwKh2XbLu9zBSiPsbtviUgD2GTcdxg27oJDgE"
-	}
+	"metadata": {}
 }

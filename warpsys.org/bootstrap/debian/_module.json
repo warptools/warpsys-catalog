@@ -1,0 +1,9 @@
+{
+	"catalogmodule.v1": {
+		"name": "warpsys.org/bootstrap/debian",
+		"releases": {
+			"bullseye-1646092800": "zM5K3V6U5E3zAPxyeeKm7Smu7DNpUGWiteQWet2y5UZhRwQJgph5DJ2KSUYSmEU2sTFtpku"
+		},
+		"metadata": {}
+	}
+}

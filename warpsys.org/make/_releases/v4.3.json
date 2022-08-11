@@ -1,10 +1,7 @@
 {
 	"releaseName": "v4.3",
 	"items": {
-		"src": "tar:oP2CtagEbqRk8yJWaPz27zEkXV5rAogDanxr1Vp35fqqVMkfdxxNr4U2kfcnq1YNB",
-		"amd64": "tar:2uTRzxorKpnwoFjFYZofQZqb7Tj8Wh4P4Q9VDx4EnNqUij7sW1WLsf1S3eEoUvrrrj"
+		"src": "tar:oP2CtagEbqRk8yJWaPz27zEkXV5rAogDanxr1Vp35fqqVMkfdxxNr4U2kfcnq1YNB"
 	},
-	"metadata": {
-		"replay": "zM5K3ZxGSi8fr8Smi598BeURuTR35zXnc2yrPRKhZvFSLGbqPcLYHs6ufa2ECuAK3VYfG8f"
-	}
+	"metadata": {}
 }

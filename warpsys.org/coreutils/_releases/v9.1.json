@@ -1,10 +1,7 @@
 {
 	"releaseName": "v9.1",
 	"items": {
-		"src": "tar:2ggK3oDACMq5J7453iEEZ4wBdo3EpvZnFbkhAQoxpALwRH8RgTiNA4vNRhiytBnSEz",
-		"amd64": "tar:9Lr3YnU1YEK7WQUNkRxoHzoVfp2Acz2Ui3mE4gCa6qSDWnUd5PYamzURQAPRiayp8m"
+		"src": "tar:2ggK3oDACMq5J7453iEEZ4wBdo3EpvZnFbkhAQoxpALwRH8RgTiNA4vNRhiytBnSEz"
 	},
-	"metadata": {
-		"replay": "zM5K3YTW1wTGgrfvtc2MtzsbrmXZZ8RiBE9YVh9bijr2PxBzDZCmkhu9vULJue2ChR9gN1c"
-	}
+	"metadata": {}
 }

@@ -1,10 +1,7 @@
 {
 	"releaseName": "v5.1.1",
 	"items": {
-		"src": "tar:4EepNdLjgzenQDuL3Xtt9eehXdcos71A2dPZNEzF7mEJc9sooV7sFhQvGwJqRfEsom",
-		"amd64": "tar:5Sj9mgPY9YDccT4ayrcCKT4CaAk9nBMaPF1yqaUP6Wf2i447zobU7DzM87DutsJPL3"
+		"src": "tar:4EepNdLjgzenQDuL3Xtt9eehXdcos71A2dPZNEzF7mEJc9sooV7sFhQvGwJqRfEsom"
 	},
-	"metadata": {
-		"replay": "zM5K3Y7GjcLhWbSNw5pyKhXJruZm8spfGKKvJ4UmTpPFsW4gCe3Z8asfDZZsepHcYxLh5Jt"
-	}
+	"metadata": {}
 }

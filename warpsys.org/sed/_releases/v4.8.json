@@ -1,10 +1,7 @@
 {
 	"releaseName": "v4.8",
 	"items": {
-		"src": "tar:7H1Q3iao41JuGXD1nigEhiLY3VhhEdBfpW8wPGNym3Cr217asnKhi4T7egJwKRpXUw",
-		"amd64": "tar:2DeS75pCrRy5nghgkw8tXbMNpwowK1cjfwVnv3QtqVzXYFtxbYtpsBzBcTo9EVUhQx"
+		"src": "tar:7H1Q3iao41JuGXD1nigEhiLY3VhhEdBfpW8wPGNym3Cr217asnKhi4T7egJwKRpXUw"
 	},
-	"metadata": {
-		"replay": "zM5K3a257Gnps3DEw26x4Q14JSAahyetwmG2Tcxxun6ebwQaPaHJtWBhYo3tQLyw4JYSHSx"
-	}
+	"metadata": {}
 }

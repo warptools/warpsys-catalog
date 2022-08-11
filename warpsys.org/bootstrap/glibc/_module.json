@@ -1,0 +1,9 @@
+{
+	"catalogmodule.v1": {
+		"name": "warpsys.org/bootstrap/glibc",
+		"releases": {
+			"v2.35": "zM5K3TxqwoAhHKCU5K27gk9v9XVS2Xj4sgNsrhaBQTkfGC4CjrFPcsznnnVTRKQf5AfTH2L"
+		},
+		"metadata": {}
+	}
+}

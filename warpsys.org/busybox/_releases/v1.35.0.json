@@ -1,10 +1,7 @@
 {
 	"releaseName": "v1.35.0",
 	"items": {
-		"src": "tar:325pzmTuCYRSJxATWXxp8msTvZi3cLwqqgdCvXPtuWPfadshqWkC2C48ZPQioZYbfp",
-		"amd64": "tar:9Uu49kSAFQojVkpApkS3y9cnLbinEcbA8U3uEaef41KgHM9kQSXKQUicPXGhBrrkDZ"
+		"src": "tar:3rGP8Nn1iZ9cSUHsjsUNktte6mb2CiYRUrud8256XnePg4bqxLw6r3XjkTGHvZUoiz"
 	},
-	"metadata": {
-		"replay": "zM5K3Y5WAckqtx5FHPJkgyLXq5mNCYsJzakLwCcnbyiwG83aXQeBAYbSCbkWZYDeWSR9F9D"
-	}
+	"metadata": {}
 }
