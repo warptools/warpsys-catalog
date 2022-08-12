@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:7GjX7jjnUDLzgBKFQKTeMSCDA6FUpwYdxMvh7yN1NJa6xbAazYwBYbZdDmGVogKwUq": [
+				"https://ftp.gnu.org/gnu/ncurses/ncurses-6.3.tar.gz"
+			]
+		}
+	}
+}
