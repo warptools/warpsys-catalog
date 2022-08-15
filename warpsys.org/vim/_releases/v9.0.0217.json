@@ -1,0 +1,10 @@
+{
+	"releaseName": "v9.0.0217",
+	"items": {
+		"src": "git:5a4fff4d948cd12a5cf5f637ad2c561815a77d8e",
+		"amd64": "tar:3cSDkkdeJTEdrhdoFvQPvhJfPowjAN4VozDQVZyiffXkzCKqD8YPDgG5rHwk3ZsB4"
+	},
+	"metadata": {
+		"replay": "zM5K3ZK3txoSSmDciaACACRMbwMSa1rvZWW62dLheLxtdUdFCGewbQAwKdx1uYJhxDdvdXs"
+	}
+}
