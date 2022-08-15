@@ -1,0 +1,10 @@
+{
+	"releaseName": "22.05",
+	"items": {
+		"src": "tar:2KXXUb5iYtXUngjTKomJh7HTzL5v71Qyy9xMdSedsZLh8ahcM52VjC3WM6Vn75bvhP",
+		"amd64": "tar:5r7QFUaK7TTvoBjugLJgGKhpgaBjUNUbUKY1JYRsFDrtDrbhPJkZgjxBpiDQy4HLkb"
+	},
+	"metadata": {
+		"replay": "zM5K3Zar9HjaURtbiUQFMdGF5hzq39L3ve4n752cX23vVjhF9k1Mr8aqyERtvUUWq8h3vwX"
+	}
+}

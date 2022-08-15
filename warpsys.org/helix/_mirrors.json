@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:2KXXUb5iYtXUngjTKomJh7HTzL5v71Qyy9xMdSedsZLh8ahcM52VjC3WM6Vn75bvhP": [
+				"https://github.com/helix-editor/helix/releases/download/22.05/helix-22.05-source.tar.xz"
+			]
+		}
+	}
+}
