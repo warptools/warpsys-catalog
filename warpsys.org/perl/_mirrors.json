@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:4BwfzQtzxUMapc4b4NknMn4NMdGNNWt51UCBbECa9Y4jwJGTRn6xbhsRHJmGaffKUS": [
+				"https://www.cpan.org/src/5.0/perl-5.36.0.tar.gz"
+			]
+		}
+	}
+}
