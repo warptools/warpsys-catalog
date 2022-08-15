@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:6LP74fZDTAGqAb7mn2zb1vHcdMn2fVFVkmq9YpbRnVdFxC2fKSJtzubQdSwfckwr8A": [
+				"https://ftp.gnu.org/gnu/emacs/emacs-28.1.tar.xz"
+			]
+		}
+	}
+}
