@@ -1,8 +1,11 @@
 {
 	"catalogmirrors.v1": {
 		"byWare": {
-			"tar:3ZHYwShstoQHoY8V89Dw9xnVzMMaEsGUkAMfnhVWMPkekGYH2WEfK3goLSKerkSges": [
-				"https://go.dev/dl/go1.17.7.linux-amd64.tar.gz"
+			"tar:2WngCP2SK9u4tCCMUvZ7tCwtKaggB17cCKe3uFhCHHr7VeRhiGStgqiLt2apyYAKk9": [
+				"https://go.dev/dl/go1.19.src.tar.gz"
+			],
+			"tar:3pVvERvyGfvQcuacbijBp8hGY4MLkvSmvkzsJ27Q4JmxgmpigotEUrz2kFrtUCbhVR": [
+				"https://go.dev/dl/go1.19.linux-amd64.tar.gz"
 			]
 		}
 	}

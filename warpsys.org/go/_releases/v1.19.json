@@ -1,0 +1,11 @@
+{
+	"releaseName": "v1.19",
+	"items": {
+		"src": "tar:2WngCP2SK9u4tCCMUvZ7tCwtKaggB17cCKe3uFhCHHr7VeRhiGStgqiLt2apyYAKk9",
+		"linux-amd64-dl": "tar:3pVvERvyGfvQcuacbijBp8hGY4MLkvSmvkzsJ27Q4JmxgmpigotEUrz2kFrtUCbhVR",
+		"linux-amd64": "tar:6ATn28CVxaUH1nXGC3QGspqjexYh1rRjyMYByMVi7HqZ2wexuF9RVk6otMPjnvjJXa"
+	},
+	"metadata": {
+		"replay": "zM5K3WKLB39vtXdcrjCkXoFRN65iqBJXc2Wi8ZVr2n8PMx8cZPPQd6YRRaKNXDmyrcip4mW"
+	}
+}
