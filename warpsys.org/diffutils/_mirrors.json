@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:5TbZAHFB4BgXRAXcGkEedKDtD4sQNbjpRjgGw6kykgY1TLSvAjWpKPVwPAyWz4Tf8M": [
+				"https://ftp.gnu.org/gnu/diffutils/diffutils-3.8.tar.xz"
+			]
+		}
+	}
+}
