@@ -2,7 +2,10 @@
 	"catalogmirrors.v1": {
 		"byWare": {
 			"tar:9jczQn3Vhqxp5MmKEsvcpVmBLnt8Qh81SBraGHQppeoGUQFQiSNaLS6i9e94AUxZbs": [
-				"https://zlib.net/zlib-1.2.12.tar.xz"
+				"https://zlib.net/fossils/zlib-1.2.12.tar.gz"
+			],
+			"tar:3rdrxPwrVqqK3xRV56dSDva1P2W57rFu28f6gd94sG9qHUcqVB6Pg72tVEAXvvR1yR": [
+				"https://zlib.net/fossils/zlib-1.2.13.tar.gz"
 			]
 		}
 	}

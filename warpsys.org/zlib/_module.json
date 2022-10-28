@@ -2,7 +2,8 @@
 	"catalogmodule.v1": {
 		"name": "warpsys.org/zlib",
 		"releases": {
-			"v1.2.12": "zM5K3RfhD1TZeA1bqvBNqEntQY7ZEaSHGXBTLbXQJPykRq82TzYdsy9ZaEvVdBVcaYimDsf"
+			"v1.2.12": "zM5K3RfhD1TZeA1bqvBNqEntQY7ZEaSHGXBTLbXQJPykRq82TzYdsy9ZaEvVdBVcaYimDsf",
+			"v1.2.13": "zM5K3Rz4yTsX3RmjG355QLpZdGr2PSgWHTMW6Y9Hw1BxLyfqQBH8fh4jhJTeWN1CE5VZ11n"
 		},
 		"metadata": {}
 	}
