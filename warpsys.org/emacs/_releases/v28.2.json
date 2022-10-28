@@ -1,0 +1,11 @@
+{
+	"releaseName": "v28.2",
+	"items": {
+		"src": "tar:7p3DRYhDBqFDy78dZULeXcCJ3HVVc6n7sayjhhbQkPMoxVifXBvFC41Vs17mCSEHMU",
+		"amd64": "tar:3Jgbnqoi5s8yzJfyHtS9T1dWgUfLLYYcohapC72ysbWfzZ96HCa7cVAbZCHhmSDm2G",
+		"build-snapshot": "tar:FBBftKQn5rmwUpHiuk22UAyBXMvdY4dbfKSEfcfGGYGrUZbbEnDFZEqPEbLqAfWWf"
+	},
+	"metadata": {
+		"replay": "zM5K3SPeg4rwgmBG16uWhWqRZzR75TzqefayRPNUKkjYc2vbCBvgjACQp6nkGgpQJF8LPQ3"
+	}
+}
