@@ -2,7 +2,8 @@
 	"catalogmodule.v1": {
 		"name": "warpsys.org/findutils",
 		"releases": {
-			"v4.9.0": "zM5K3SxfKe3pzZ22DT5N4JpY2xVNmQYG886JGh2WsBZVDMma9AbdbsEofbhShFCX6ajRSKn"
+			"v4.9.0": "zM5K3SxfKe3pzZ22DT5N4JpY2xVNmQYG886JGh2WsBZVDMma9AbdbsEofbhShFCX6ajRSKn",
+			"v4.9.0-2": "zM5K3ZY2jhiMcZJQPyEG9f5KmHbtqEfNA4nUyX6K24TL82MPpgZMo1iLe9xAjvSPQpijVwm"
 		},
 		"metadata": {}
 	}
