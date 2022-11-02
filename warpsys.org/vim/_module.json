@@ -2,7 +2,8 @@
 	"catalogmodule.v1": {
 		"name": "warpsys.org/vim",
 		"releases": {
-			"v9.0.0217": "zM5K3atfN88dioQg8eQuqoP84TvFnLQnKX7PTjRWXeKKHD5W2ECLqwq7HiBpsei81ptMjxx"
+			"v9.0.0217": "zM5K3atfN88dioQg8eQuqoP84TvFnLQnKX7PTjRWXeKKHD5W2ECLqwq7HiBpsei81ptMjxx",
+			"v9.0.0217-2": "zM5K3TtPu2xCExAPk2gVATYJQZbLszidYcnEndiRSmFTuUHwqJrBGWTY9pEuvjZFX8kT8Yw"
 		},
 		"metadata": {}
 	}

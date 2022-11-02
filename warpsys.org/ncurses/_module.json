@@ -2,7 +2,8 @@
 	"catalogmodule.v1": {
 		"name": "warpsys.org/ncurses",
 		"releases": {
-			"v6.3": "zM5K3VcK3voggVMn4Pe9kaFUHPoTUHG8PC2attvueKpBHXb38XHHx3g9CewoVGAAEVLjApx"
+			"v6.3": "zM5K3VcK3voggVMn4Pe9kaFUHPoTUHG8PC2attvueKpBHXb38XHHx3g9CewoVGAAEVLjApx",
+			"v6.3-2": "zM5K3SSebEA7qgC8jSLamiXKTNpFuPSp2o1va8EdCT86yvc2hvHC8UikbqiBHAtwN9VB24b"
 		},
 		"metadata": {}
 	}
