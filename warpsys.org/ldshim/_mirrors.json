@@ -3,7 +3,7 @@
 		"byModule": {
 			"warpsys.org/ldshim": {
 				"git": [
-					"https://github.com/ericevenchick/ldshim"
+					"https://github.com/warptools/ldshim"
 				]
 			}
 		}
