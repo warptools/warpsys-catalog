@@ -1,0 +1,9 @@
+{
+	"catalogmirrors.v1": {
+		"byWare": {
+			"tar:78ykV7uQDENouTA4GxGKqFgiFrWcUnrDDWrxEXoJizjHQxAcxBBvepFfDBUQtdhRp6": [
+				"https://pkgconfig.freedesktop.org/releases/pkg-config-0.29.2.tar.gz"
+			]
+		}
+	}
+}
