@@ -4,6 +4,13 @@
 			"tar:7fQagGjiKDr1iNTu3YG4eMPzZecgcKF6bqcU1NQHvNJtt9BJ2YSsePee7GeEQg8wM8": [
 				"https://www.kernel.org/pub/software/scm/git/git-2.37.2.tar.gz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/git": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

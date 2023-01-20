@@ -7,6 +7,13 @@
 			"tar:7p3DRYhDBqFDy78dZULeXcCJ3HVVc6n7sayjhhbQkPMoxVifXBvFC41Vs17mCSEHMU": [
 				"https://ftp.gnu.org/gnu/emacs/emacs-28.2.tar.xz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/emacs": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

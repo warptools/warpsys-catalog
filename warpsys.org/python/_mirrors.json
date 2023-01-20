@@ -7,6 +7,13 @@
 			"tar:5bv6aKWCUrYzyCzjXKqzT4VkPwwnhadWP1ZMWXvSFKpZGxgZFGvfaHsVEvkgmWzQD": [
 				"https://warpsys.s3.amazonaws.com/warpsys.org/warehouse/5bv6aKWCUrYzyCzjXKqzT4VkPwwnhadWP1ZMWXvSFKpZGxgZFGvfaHsVEvkgmWzQD"
 			]
+		},
+		"byModule": {
+			"warpsys.org/python": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

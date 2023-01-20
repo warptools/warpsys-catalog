@@ -4,6 +4,13 @@
 			"tar:oP2CtagEbqRk8yJWaPz27zEkXV5rAogDanxr1Vp35fqqVMkfdxxNr4U2kfcnq1YNB": [
 				"https://ftp.gnu.org/gnu/make/make-4.3.tar.gz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/make": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

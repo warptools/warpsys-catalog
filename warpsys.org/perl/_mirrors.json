@@ -4,6 +4,13 @@
 			"tar:4BwfzQtzxUMapc4b4NknMn4NMdGNNWt51UCBbECa9Y4jwJGTRn6xbhsRHJmGaffKUS": [
 				"https://www.cpan.org/src/5.0/perl-5.36.0.tar.gz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/patchelf": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

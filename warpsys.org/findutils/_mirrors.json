@@ -4,6 +4,13 @@
 			"tar:8k3Beofak7rCpje6qLCBnjAmvHEtmZydKzW1dZABuQug4uWgZ88ut7vG8ptF2Zc7SZ": [
 				"https://ftp.gnu.org/gnu/findutils/findutils-4.9.0.tar.xz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/findutils": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

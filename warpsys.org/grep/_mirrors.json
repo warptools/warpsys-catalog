@@ -4,6 +4,13 @@
 			"tar:6Z3uetjLfrTyUMZfJUj5irebzUsbyWD3gT6RzqqCCBkCo75M5mUZ5cY2JT2P2xzJNw": [
 				"https://ftp.gnu.org/gnu/grep/grep-3.7.tar.xz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/grep": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

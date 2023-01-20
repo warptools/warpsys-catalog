@@ -7,6 +7,13 @@
 			"tar:3rdrxPwrVqqK3xRV56dSDva1P2W57rFu28f6gd94sG9qHUcqVB6Pg72tVEAXvvR1yR": [
 				"https://zlib.net/fossils/zlib-1.2.13.tar.gz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/zlib": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

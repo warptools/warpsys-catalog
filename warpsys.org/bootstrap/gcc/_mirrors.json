@@ -4,6 +4,13 @@
 			"tar:8ReBSHpZBrQs2sKs1b3sTZvUPXYQxXhecPnU8mtkvBBks6QNWN6K2RGiCyV419tLKM": [
 				"https://warpsys.s3.amazonaws.com/warpsys.org/warehouse/8ReBSHpZBrQs2sKs1b3sTZvUPXYQxXhecPnU8mtkvBBks6QNWN6K2RGiCyV419tLKM"
 			]
+		},
+		"byModule": {
+			"warpsys.org/bootstrap/gcc": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

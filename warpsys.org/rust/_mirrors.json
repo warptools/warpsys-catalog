@@ -4,6 +4,13 @@
 			"tar:8syq3VahZGDddnxaSxWBmebQDvA5EJbdLAdbdDQwA7uK6AA8Mxf4nSqgunYbUtDQz1": [
 				"https://static.rust-lang.org/dist/rust-1.59.0-x86_64-unknown-linux-gnu.tar.gz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/rust": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

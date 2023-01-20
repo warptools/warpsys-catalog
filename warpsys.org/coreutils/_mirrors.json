@@ -4,6 +4,13 @@
 			"tar:2ggK3oDACMq5J7453iEEZ4wBdo3EpvZnFbkhAQoxpALwRH8RgTiNA4vNRhiytBnSEz": [
 				"https://ftp.gnu.org/gnu/coreutils/coreutils-9.1.tar.xz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/coreutils": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

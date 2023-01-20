@@ -4,6 +4,13 @@
 			"tar:4QWkTmDDgEWJ4XxybZqAyf2mtkFyDNC6YSfCk4SpC1CW5S2Vrer2XEQLSa26ZHUFj5": [
 				"https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.tar.gz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/gettext": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

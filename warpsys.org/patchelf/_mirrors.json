@@ -4,6 +4,13 @@
 			"tar:2K4e4WKb6UzbeEcFC4cFyCkhvBT9qrBfzwDQHmN11qMQfqetsdaxdXkpbGjByjYMpP": [
 				"https://github.com/NixOS/patchelf/releases/download/0.14.5/patchelf-0.14.5.tar.gz"
 			]
+		},
+		"byModule": {
+			"warpsys.org/patchelf": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

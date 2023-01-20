@@ -4,8 +4,12 @@
 			"warpsys.org/vim": {
 				"git": [
 					"https://github.com/vim/vim"
+				],
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
 				]
 			}
 		}
 	}
 }
+

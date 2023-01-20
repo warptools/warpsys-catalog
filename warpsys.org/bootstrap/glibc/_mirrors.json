@@ -7,6 +7,13 @@
 			"tar:CdoEWxD61NHcu1yayo2KjvFHAmwt2r3kxKYxudgKTAUyBqfmPQp4SnarHfKgYe1XN": [
 				"https://warpsys.s3.amazonaws.com/warpsys.org/warehouse/CdoEWxD61NHcu1yayo2KjvFHAmwt2r3kxKYxudgKTAUyBqfmPQp4SnarHfKgYe1XN"
 			]
+		},
+		"byModule": {
+			"warpsys.org/bootstrap/glibc": {
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
+				]
+			}
 		}
 	}
 }

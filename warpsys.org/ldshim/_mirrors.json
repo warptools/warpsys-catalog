@@ -4,6 +4,9 @@
 			"warpsys.org/ldshim": {
 				"git": [
 					"https://github.com/warptools/ldshim"
+				],
+				"tar": [
+					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
 				]
 			}
 		}
