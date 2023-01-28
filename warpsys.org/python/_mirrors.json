@@ -6,6 +6,9 @@
 			],
 			"tar:5bv6aKWCUrYzyCzjXKqzT4VkPwwnhadWP1ZMWXvSFKpZGxgZFGvfaHsVEvkgmWzQD": [
 				"https://warpsys.s3.amazonaws.com/warpsys.org/warehouse/5bv6aKWCUrYzyCzjXKqzT4VkPwwnhadWP1ZMWXvSFKpZGxgZFGvfaHsVEvkgmWzQD"
+			],
+			"tar:79LRtQhZurhrPQYyNwpcu48J7xeMFpUiMb2m5YAw7nRm3TzXNcTKMwFZZWVV3wQSb9": [
+				"https://www.python.org/ftp/python/3.11.1/Python-3.11.1.tar.xz"
 			]
 		},
 		"byModule": {
