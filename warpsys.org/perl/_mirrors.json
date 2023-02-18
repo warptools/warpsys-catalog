@@ -6,7 +6,7 @@
 			]
 		},
 		"byModule": {
-			"warpsys.org/patchelf": {
+			"warpsys.org/perl": {
 				"tar": [
 					"ca+https://warpsys-wares.s3.fr-par.scw.cloud"
 				]
