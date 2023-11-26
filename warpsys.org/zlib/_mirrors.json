@@ -6,6 +6,9 @@
 			],
 			"tar:3rdrxPwrVqqK3xRV56dSDva1P2W57rFu28f6gd94sG9qHUcqVB6Pg72tVEAXvvR1yR": [
 				"https://zlib.net/fossils/zlib-1.2.13.tar.gz"
+			],
+			"tar:7gd8Kp9fXGZ4He7wi6RzjXzgVQM6LkduzmNAP99JLF8iGkxUVJ61t2zyaBYB4ktUNa": [
+				"https://zlib.net/fossils/zlib-1.3.tar.gz"
 			]
 		},
 		"byModule": {
